@@ -1,5 +1,5 @@
 import java.util.*;
-public class Album extends Song {
+public class Album extends Song   {
     private String artist;
     private String name;
     List<Song> songs;
